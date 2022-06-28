@@ -6,7 +6,4 @@
 
 
 
-[Link do resultado](https://sa-g0s.github.io/appReactListaPresenca/) <br />
-
-
 <p align="justify">Esse repositório foi criado para compartilhar os códigos(HTML, CSS E JS com a ferramenta React) feitos durante a Trilha Especializar da Rocketseat, onde foi proposto um desafio de criação de um  APP de lista de presença. 😹 </p>
